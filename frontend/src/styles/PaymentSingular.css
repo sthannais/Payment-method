@@ -1,0 +1,30 @@
+.datasCard {
+  position: relative;
+  top: 50px;
+  left: 35%;
+  width: 30%;
+}
+
+.item1 {
+  position: relative;
+  bottom: 30px;
+  left: 54px;
+}
+
+.item2 {
+  position: relative;
+  bottom: 30px;
+  left: 91px;
+}
+
+.item3 {
+  position: relative;
+  bottom: 30px;
+  left: 40px;
+}
+
+.item4 {
+  position: relative;
+  bottom: 30px;
+  left: 46px;
+}

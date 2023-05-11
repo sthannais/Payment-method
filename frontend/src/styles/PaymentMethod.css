@@ -1,0 +1,21 @@
+.titleContainer {
+  position: relative;
+  top: 30px;
+}
+
+.inputContainer {
+  position: relative;
+  left: 31%;
+}
+
+.viewDelete {
+  position: relative;
+  left: 68%;
+  bottom: 37px;
+}
+
+.list {
+  position: relative;
+  left: 23%;
+  width: 55%;
+}
